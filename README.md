@@ -93,4 +93,4 @@ Virtual patching protects against vulnerability exploits, embedded malware, zero
 <img src="./images/Virtual-patching.png" width="100%" height="100%" alt="Component Model"  class="inline"/>
 
 
-Continue to learn more about how to automate Container Security  with respect to the Ops role in Part 2 of this article series.  We will preface it with the *bridge* that occurs between the CI/CD pipeline and the production environment with Security Policy as Code and Admission Controls being managed by the DevOps teams with oversight from the Security team. 
+Continue to learn more about how to automate Container Security  with respect to the Ops role in [Part 2](https://github.com/IBM/TenStepstoAutomateContainerSecurity-Pt2) of this article series.  We will preface it with the *bridge* that occurs between the CI/CD pipeline and the production environment with Security Policy as Code and Admission Controls being managed by the DevOps teams with oversight from the Security team. 
